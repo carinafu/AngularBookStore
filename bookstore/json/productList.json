@@ -1,0 +1,188 @@
+[
+  {
+    "id":"book01",
+    "name": "Harvesting the Heart",
+    "description": "Paige has only a few vivid memories of her mother, who left when she was five. Now, having left her father behind in Chicago for dreams of art school and marriage to an ambitious young doctor, she finds herself with a child of her own. But her mother's absence, and shameful memories of her past, make her doubt both her maternal ability and her sense of self-worth.",
+    "price": 22.90,
+    "screenshot": "img/book-1464724.jpg",
+    "author":"carina",
+    "availability":true,
+    "shine": 8,
+    "rarity": 7,
+    "color": "#CCC",
+    "faces": 14,
+    "images": [
+      "img/book-1464724.jpg",
+      "img/book-1421237.jpg",
+      "img/book-1421252.jpg"
+    ],
+    "reviews": [{
+      "stars":5,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      },{
+      "stars":4,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      },{
+      "stars":3,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      }]
+  },
+  {
+    "id":"book02",
+    "name": "Bloodstone",
+    "description": "Paige has only a few vivid memories of her mother, who left when she was five. Now, having left her father behind in Chicago for dreams of art school and marriage to an ambitious young doctor, she finds herself with a child of her own. But her mother's absence, and shameful memories of her past, make her doubt both her maternal ability and her sense of self-worth.",
+    "price": 22.90,
+    "screenshot": "img/book-1464724.jpg",
+    "author":"carina",
+    "availability":true,
+    "shine": 8,
+    "rarity": 7,
+    "color": "#CCC",
+    "faces": 14,
+    "images": [
+      "img/book-1464724.jpg",
+      "img/book-1421237.jpg",
+      "img/book-1421252.jpg"
+    ],
+    "reviews": [{
+      "stars":5,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      },{
+      "stars":4,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      },{
+      "stars":3,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      }]
+  },
+  {
+    "id":"book03",
+    "name": "Hating the Heart",
+    "description": "Paige has only a few vivid memories of her mother, who left when she was five. Now, having left her father behind in Chicago for dreams of art school and marriage to an ambitious young doctor, she finds herself with a child of her own. But her mother's absence, and shameful memories of her past, make her doubt both her maternal ability and her sense of self-worth.",
+    "price": 22.90,
+    "screenshot": "img/book-1464724.jpg",
+    "author":"carina",
+    "availability":true,
+    "shine": 8,
+    "rarity": 7,
+    "color": "#CCC",
+    "faces": 14,
+    "images": [
+      "img/book-1464724.jpg",
+      "img/book-1421237.jpg",
+      "img/book-1421252.jpg"
+    ],
+    "reviews": [{
+      "stars":5,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      },{
+      "stars":4,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      },{
+      "stars":3,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      }]
+  },
+  {
+    "id":"book04",
+    "name": "Worl wirld",
+    "description": "Paige has only a few vivid memories of her mother, who left when she was five. Now, having left her father behind in Chicago for dreams of art school and marriage to an ambitious young doctor, she finds herself with a child of her own. But her mother's absence, and shameful memories of her past, make her doubt both her maternal ability and her sense of self-worth.",
+    "price": 22.90,
+    "screenshot": "img/book-1464724.jpg",
+    "author":"carina",
+    "availability":true,
+    "shine": 8,
+    "rarity": 7,
+    "color": "#CCC",
+    "faces": 14,
+    "images": [
+      "img/book-1464724.jpg",
+      "img/book-1421237.jpg",
+      "img/book-1421252.jpg"
+    ],
+    "reviews": [{
+      "stars":5,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      },{
+      "stars":4,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      },{
+      "stars":3,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      }]
+  },
+  {
+    "id":"book05",
+    "name": "ABCDE",
+    "description": "Paige has only a few vivid memories of her mother, who left when she was five. Now, having left her father behind in Chicago for dreams of art school and marriage to an ambitious young doctor, she finds herself with a child of her own. But her mother's absence, and shameful memories of her past, make her doubt both her maternal ability and her sense of self-worth.",
+    "price": 22.90,
+    "screenshot": "img/book-1464724.jpg",
+    "author":"carina",
+    "availability":true,
+    "shine": 8,
+    "rarity": 7,
+    "color": "#CCC",
+    "faces": 14,
+    "images": [
+      "img/book-1464724.jpg",
+      "img/book-1421237.jpg",
+      "img/book-1421252.jpg"
+    ],
+    "reviews": [{
+      "stars":5,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      },{
+      "stars":4,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      },{
+      "stars":3,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      }]
+  },
+  {
+    "id":"book06",
+    "name": "Pretty Baby",
+    "description": "Paige has only a few vivid memories of her mother, who left when she was five. Now, having left her father behind in Chicago for dreams of art school and marriage to an ambitious young doctor, she finds herself with a child of her own. But her mother's absence, and shameful memories of her past, make her doubt both her maternal ability and her sense of self-worth.",
+    "price": 22.90,
+    "screenshot": "img/book-1464724.jpg",
+    "author":"carina",
+    "availability":true,
+    "shine": 8,
+    "rarity": 7,
+    "color": "#CCC",
+    "faces": 14,
+    "images": [
+      "img/book-1464724.jpg",
+      "img/book-1421237.jpg",
+      "img/book-1421252.jpg"
+    ],
+    "reviews": [{
+      "stars":5,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      },{
+      "stars":4,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      },{
+      "stars":3,
+      "body":"Always enjoy Jodi Picoult and this was a very good book. The main character frustrated me at times but then the book takes to to a point of understanding.",
+      "author":"123@example.com"
+      }]
+  }
+]
